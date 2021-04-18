@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/vanessa-opensource/vanessa-runner/develop/vanessa-runner-schema.json",
+    "default": {
+        "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
+        "--db-user": "Администратор",
+        "--db-pwd": "",
+        "--v8version": "8.3.18"
+    },
+    "xunit": {
+        "inputPath": "./tests/",
+        "--reportxunit": "./build/xunit.xml"
+    },
+    "updatedb": {
+        "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
+        "--db-user": "Администратор",
+        "--uccode": "godModeOn"
+    },
+    "compile": {
+        "inputPath": "./src",
+        "outputPath": "./build/1Cv8.cf"
+    },
+    "designer": {
+        "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
+        "--storage-name": "C:/development/repo/demo",
+        "--storage-user": "Администратор"
+    }
+
+}
