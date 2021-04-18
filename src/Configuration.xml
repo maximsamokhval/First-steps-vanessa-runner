@@ -351,7 +351,7 @@
 			<CommonModule>СервисныеМеханизмы</CommonModule>
 			<CommonModule>УведомленияКлиент</CommonModule>
 			<CommonModule>УведомленияСервер</CommonModule>
-			<CommonAttribute>ОбщийРеквизит1</CommonAttribute>
+			<CommonAttribute>ОбщийРеквизит2</CommonAttribute>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>

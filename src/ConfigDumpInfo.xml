@@ -219,7 +219,7 @@
 		<Metadata name="ChartOfCharacteristicTypes.ВидыХарактеристик.Help" id="167ee2ef-335b-4fbd-8096-b2f542661c8d.5" configVersion="9eefe64ccbddae418c64948cb3b8166f00000000"/>
 		<Metadata name="CommandGroup.Информация" id="8685f0c1-8163-4832-8725-6f20a6d057ed"/>
 		<Metadata name="CommandGroup.Печать" id="0f1122d5-6382-44e3-a6f3-b8fa6f557bd1"/>
-		<Metadata name="CommonAttribute.ОбщийРеквизит1" id="70283890-cef6-4937-8e7f-3e8104aacb1d" configVersion="13e11db849bcf54a88ffa3242b40b86700000000"/>
+		<Metadata name="CommonAttribute.ОбщийРеквизит2" id="70283890-cef6-4937-8e7f-3e8104aacb1d" configVersion="2c2f1f1b7ad15445ad9715218f7e974200000000"/>
 		<Metadata name="CommonCommand.БотОфисМенеджер" id="86e09520-2ffd-4b71-bdbe-c816d044c675" configVersion="978280e2c48eb543ae0ea346496466c500000000"/>
 		<Metadata name="CommonCommand.БотОфисМенеджер.CommandModule" id="86e09520-2ffd-4b71-bdbe-c816d044c675.2" configVersion="6967746883fc884490ef0dd41ce665db00000000"/>
 		<Metadata name="CommonCommand.НастроитьСканерШтрихКодов" id="cd34b690-73e9-4b9f-bcb6-21f41e06eff5" configVersion="cbe8d153dfa635468445574dfbb7c0a700000000"/>
