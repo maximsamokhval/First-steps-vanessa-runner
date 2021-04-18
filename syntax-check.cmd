@@ -1,0 +1,1 @@
+@call vrunner syntax-check --settings ./tools/json/vrunner.json
