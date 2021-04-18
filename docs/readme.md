@@ -19,3 +19,11 @@
    4.1 Настройка плагина limit для gitsync `gitsync plugins enable limit`
    4.2 Настройка плагина check-comments для gitsync `gitsync plugins enable check-comments`
 5. Настройка файла vrunner.json
+
+## 2. Структура каталогов
+
+* ./src - хранение исходных файлов конфигурации, полученных с помощью gitsync
+* ./docs - документация проекта
+* ./tests - файлы с тестами
+* ./tools - вспомогательные файлы, директории с настройками
+
