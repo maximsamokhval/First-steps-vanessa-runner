@@ -456,6 +456,7 @@
 			<Catalog>Товары</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>ХранимыеФайлы</Catalog>
+			<Catalog>_Демо_Номенклатура</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>

@@ -6,6 +6,31 @@
         "--db-pwd": "",
         "--v8version": "8.3.18"
     },
+    "syntax-check": {
+        "--groupbymetadata": false,
+        "--exception-file": "./tools/syntax_check_exception.txt",
+        "--junitpath": "out/syntaxCheck/junit",
+        "--allure-results2": "out/syntaxCheck/allure",
+        "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
+        "--db-user": "Администратор",
+        "--db-pwd": "",
+        "--v8version": "8.3.18",
+        "--storage-name": "C:/development/repo/demo",
+        "--debuglogfile": false,
+        "--storage-user": "Администратор",
+        "--mode": [
+            "-ExtendedModulesCheck",
+            "-ThinClient",
+            "-WebClient",
+            "-Server",
+            "-ExternalConnection",
+            "-ThickClientOrdinaryApplication",
+            "-EmptyHandlers",
+            "-UnreferenceProcedures",
+            "-ExtendedModulesCheck",
+            "-HandlersExistence"
+        ]
+    },
     "xunit": {
         "inputPath": "./tests/",
         "--reportxunit": "./build/xunit.xml"

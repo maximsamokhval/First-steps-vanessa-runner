@@ -26,3 +26,36 @@
 * ./docs - документация проекта
 * ./tests - файлы с тестами
 * ./tools - вспомогательные файлы, директории с настройками
+
+## 3. Синтаксис - проверка конфигурации
+
+### Добавление секции syntax-check 
+
+ * Добавить в файл tools\json\vrunner.json секцию 
+ 
+   "syntax-check": {
+        "--groupbymetadata": true,
+        "--exception-file": "",
+        "--junitpath": "out/syntaxCheck/junit",
+        "--allure-results2": "out/syntaxCheck/allure",
+        "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
+        "--db-user": "Администратор",
+        "--db-pwd": "",
+        "--v8version": "8.3.18",
+        "--storage-name": "C:/development/repo/demo",
+        "--storage-user": "Администратор",
+        "--mode": [
+            "-ExtendedModulesCheck",
+            "-ThinClient",
+            "-WebClient",
+            "-Server",
+            "-ExternalConnection",
+            "-ThickClientOrdinaryApplication",
+            "-EmptyHandlers",
+            "-UnreferenceProcedures",
+            "-ExtendedModulesCheck",
+            "-HandlersExistence"
+        ]
+    }
+
+* [Описание секции --mode](https://yellow-erp.com/help/1cv8/zif3_checkconfig/?lang=ru) - синтаксис проверки
