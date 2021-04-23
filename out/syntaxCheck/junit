@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites name="CheckConfig.base" tests="7" failures="1" skipped="6" time="8">
+    <testsuite name="CheckConfig.base">
+        <properties/>
+        <testcase classname="CheckConfig.base.Пропущено" name="Справочник.Встречи.Форма.Календарь.Форма">
+            <skipped/>
+            <system-out>Не обнаружено ссылок на процедуру: "ЗаписатьВКалендарь"</system-out>
+        </testcase>
+        <testcase classname="CheckConfig.base.Пропущено" name="Справочник._Демо_Номенклатура.Форма.ФормаЭлемента.Форма">
+            <skipped/>
+            <system-out>Отсутствует обработчик: Наименование "НаименованиеПриИзменении"</system-out>
+        </testcase>
+        <testcase classname="CheckConfig.base.Пропущено" name="Отчет.ДашбордПродажи.МодульОбъекта">
+            <skipped/>
+            <system-out>Пустой обработчик: "ПриКомпоновкеРезультата"</system-out>
+        </testcase>
+        <testcase classname="CheckConfig.base.Пропущено" name="Отчет.ДашбордПродажи.Форма.ФормаОтчета.Форма">
+            <skipped/>
+            <system-out>Не обнаружено ссылок на функцию: "РасшифровкаВЗначение"
+Отсутствует обработчик: ДиаграммаПоПериодамСброситьФильтр "ДиаграммаПоПериодамСброситьФильтр"
+Отсутствует обработчик: ДиаграммаПоПокупателямСброситьФильтр "ДиаграммаПоПокупателямСброситьФильтр"
+Отсутствует обработчик: Домой "Домой"
+Отсутствует обработчик: ПредыдущийПример "ПредыдущийПример"
+Отсутствует обработчик: Форма "ПриОткрытии"
+Отсутствует обработчик: СледующийПример "СледующийПример"</system-out>
+        </testcase>
+        <testcase classname="CheckConfig.base.Ошибка" name="Отчет.ДашбордПродажи.Форма.ФормаОтчета.Форма">
+            <failure type="ERROR" message="Отсутствует обработчик: ДиаграммаПоТоварамСброситьФильтр &quot;ДиаграммаПоТоварамСброситьФильтр&quot;"/>
+        </testcase>
+        <testcase classname="CheckConfig.base.Пропущено" name="Обработка.НастройкиПользователя.Форма.Форма.Форма">
+            <skipped/>
+            <system-out>Отсутствует обработчик: АгентПодключен "АгентПодключенПриИзменении"</system-out>
+        </testcase>
+        <testcase classname="CheckConfig.base.Пропущено" name="Обработка.УправлениеСистемойВзаимодействия.Форма.Форма.Форма">
+            <skipped/>
+            <system-out>Отсутствует обработчик: EMail "EMailПриИзменении"</system-out>
+        </testcase>
+    </testsuite>
+</testsuites>
