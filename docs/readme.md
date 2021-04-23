@@ -9,6 +9,9 @@
 * [ADD](https://github.com/vanessa-opensource/add) - плагин ADD, репозиторий
 * [GitSync 3.0. Шпаргалка по использованию](https://infostart.ru/1c/articles/1157400/) - настройка плагина gitSync
 * [Демонстрационная конфигурация 1С](https://its.1c.ru/db/metod8dev/content/5028/hdoc)
+* [Allure2](https://github.com/allure-framework/allure2/releases) - релизы Allure2
+* [Отчетность Allure](https://infostart.ru/1c/articles/1010127/)
+  
 
 ### Последовательность действий
 
@@ -69,3 +72,8 @@
 * В отчетах формата Allure2 эти проверки будут со статусом skipped
 * Для вывода лога, добавить ключ "--debuglogfile": true
   
+## 4. Генерация отчета в Allure2 формате
+
+* Настройка окружения описана в статье [Настройка Allure2](https://infostart.ru/1c/articles/1010127/)
+* Отображение Trends (robocopy)
+* Запускаем Скрипт gen_allure_report.cmd

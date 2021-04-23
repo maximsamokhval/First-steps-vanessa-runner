@@ -7,7 +7,7 @@
         "--v8version": "8.3.18"
     },
     "syntax-check": {
-        "--groupbymetadata": false,
+        "--groupbymetadata": true,
         "--exception-file": "./tools/syntax_check_exception.txt",
         "--junitpath": "out/syntaxCheck/junit",
         "--allure-results2": "out/syntaxCheck/allure",
