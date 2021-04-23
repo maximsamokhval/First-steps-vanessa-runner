@@ -59,3 +59,13 @@
     }
 
 * [Описание секции --mode](https://yellow-erp.com/help/1cv8/zif3_checkconfig/?lang=ru) - синтаксис проверки
+
+### Параметр секции syntax-check (--exception-file)
+
+* Создать файл syntax_check_exception.txt
+* В ключе "--exception-file" секции "syntax-check" добавить путь к файлу
+* После первой проверки скопировать необходимые исключения и вставить в файл
+* Запустить проверку заново
+* В отчетах формата Allure2 эти проверки будут со статусом skipped
+* Для вывода лога, добавить ключ "--debuglogfile": true
+  
