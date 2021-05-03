@@ -32,8 +32,11 @@
         ]
     },
     "xunit": {
-        "inputPath": "./tests/",
-        "--reportxunit": "./build/xunit.xml"
+        "--xddConfig": "./tools/json/xUnitParams.json",
+        "--reportsxunit": "ГенераторОтчетаAllureXML{out//smoke/allure.json}",
+        "--workspace": ".",
+        "--pathxunit": "$addRoot/xddTestRunner.epf",
+        "testsPath": "./tests/smoke"
     },
     "updatedb": {
         "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
@@ -43,6 +46,11 @@
     "compile": {
         "inputPath": "./src",
         "outputPath": "./build/1Cv8.cf"
+    },
+    "compileepf": {
+        "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
+        "inputPath": "C:/git/add/tests/smoke",
+        "outputPath": "./build/out/epf"
     },
     "designer": {
         "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
