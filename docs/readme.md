@@ -77,3 +77,8 @@
 * Настройка окружения описана в статье [Настройка Allure2](https://infostart.ru/1c/articles/1010127/)
 * Отображение Trends (robocopy)
 * Запускаем Скрипт gen_allure_report.cmd
+
+## 5. Объединение скриптов в один
+
+* check.cmd
+* 
