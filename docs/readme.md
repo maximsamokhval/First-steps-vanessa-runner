@@ -1,5 +1,8 @@
 # Описание 
 
+
+[Youtube- канал](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ)
+
 ## 1 Настройка окружения
 
 * [OneScript](https://oscript.io/) - Инструмент автоматизации для специалистов по 1С
