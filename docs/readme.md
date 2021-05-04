@@ -78,7 +78,10 @@
 * Отображение Trends (robocopy)
 * Запускаем Скрипт gen_allure_report.cmd
 
-## 5. Объединение скриптов в один
+## 5. Добавление дымовых тестов
 
-* check.cmd
-* 
+* Изменить файл ./tools/json/vrunner.json (секция xunit)
+* Добавить файл ./tools/json/xUnitParams.json (настройки дымовых тестов)
+* Создать скрипт smoke-test.cmd
+* Добавить в каталог ./tests/smoke обработки из "C:\Program Files\OneScript\lib\add\tests\smoke"
+
