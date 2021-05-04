@@ -80,6 +80,9 @@
 
 ## 5. Добавление дымовых тестов
 
+Подготовка к запуску дымовых тестов 
+- Версия vanessa-add 6.6.5 [скачать](https://github.com/vanessa-opensource/add/releases/tag/v6.6.5)
+
 * Изменить файл ./tools/json/vrunner.json (секция xunit)
 * Добавить файл ./tools/json/xUnitParams.json (настройки дымовых тестов)
 * Создать скрипт smoke-test.cmd
