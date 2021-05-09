@@ -3,7 +3,7 @@
     "default": {
         "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
         "--db-user": "Администратор",
-        "--db-pwd": "",
+        "--db-pwd": "123",
         "--v8version": "8.3.18"
     },
     "syntax-check": {
@@ -35,6 +35,9 @@
         "--xddConfig": "./tools/json/xUnitParams.json",
         "--reportsxunit": "ГенераторОтчетаAllureXML{out//smoke/allure.json}",
         "--workspace": ".",
+        "--db-user": "Администратор",
+        "--db-pwd": "123",
+        "--testclient": "Администратор:123:1538",
         "--pathxunit": "$addRoot/xddTestRunner.epf",
         "testsPath": "./tests/smoke"
     },

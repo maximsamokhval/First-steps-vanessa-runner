@@ -1,2 +1,11 @@
 build/**
 out/**
+.packman/packman.conf
+.packman/v8r_TempDB/1Cv8.1CD
+.packman/v8r_TempDB/1Cv8.1CD.cfl
+.packman/v8r_TempDB/1Cv8.1CL.cfl
+.packman/v8r_TempDB/1Cv8.cgr.cfl
+.packman/v8r_TempDB/1Cv8tmp.1CD.cfl
+.packman/v8r_TempDB/1Cv8tmp.1CL.cfl
+.packman/v8r_TempDB/1Cv8Log/1Cv8.lgf
+.packman/v8r_TempDB/1Cv8Log/20210503000000.lgp
