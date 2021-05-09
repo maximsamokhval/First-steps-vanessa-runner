@@ -1,5 +1,5 @@
-site_name: Тестирование в 1С:Предприятии
+site_name: Юнит тестирование в 1С:Предприятии
 nav:
     - Home: index.md
-    - About: about.md
+    - Контакты: about.md
 theme: readthedocs
