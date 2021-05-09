@@ -2,3 +2,4 @@ site_name: Тестирование в 1С:Предприятии
 nav:
     - Home: index.md
     - About: about.md
+theme: readthedocs
