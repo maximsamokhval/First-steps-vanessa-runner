@@ -13,7 +13,7 @@
         "--allure-results2": "out/syntaxCheck/allure",
         "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
         "--db-user": "Администратор",
-        "--db-pwd": "",
+        "--db-pwd": "123",
         "--v8version": "8.3.18",
         "--storage-name": "C:/development/repo/demo",
         "--debuglogfile": false,
@@ -33,13 +33,13 @@
     },
     "xunit": {
         "--xddConfig": "./tools/json/xUnitParams.json",
-        "--reportsxunit": "ГенераторОтчетаAllureXML{out//smoke/allure.json}",
+        "--reportsxunit": "ГенераторОтчетаAllureXML{out/smoke/allure.json}",
         "--workspace": ".",
         "--db-user": "Администратор",
         "--db-pwd": "123",
         "--testclient": "Администратор:123:1538",
         "--pathxunit": "$addRoot/xddTestRunner.epf",
-        "testsPath": "./tests/smoke"
+        "testsPath": "./tests"
     },
     "updatedb": {
         "--ibconnection": "/FC:/Users/Maxim Samokhval/Documents/Bases/Platform8Demo",
