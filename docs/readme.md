@@ -1,5 +1,6 @@
 # Описание 
 
+[![Stars](https://img.shields.io/github/stars/maximsamokhval/First-steps-vanessa-runner.svg?label=Github%20%E2%98%85&a)](https://github.com/maximsamokhval/First-steps-vanessa-runner/stargazers)
 
 [Youtube- канал](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ)
 
