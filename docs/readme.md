@@ -1,6 +1,9 @@
 # Описание 
 
-[![Stars](https://img.shields.io/github/stars/maximsamokhval/First-steps-vanessa-runner.svg?label=Github%20%E2%98%85&a)](https://github.com/maximsamokhval/First-steps-vanessa-runner/stargazers)
+[![Stars](https://img.shields.io/github/stars/maximsamokhval/First-steps-vanessa-runner.svg?label=Github%20%E2%98%85&a)](https://github.com/maximsamokhval/First-steps-vanessa-runner/stargazers) 
+![forks](https://img.shields.io/github/forks/maximsamokhval/First-steps-vanessa-runner?style=plastic)
+[![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/automation_community)
+![last commit](https://img.shields.io/github/last-commit/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 
 [Youtube- канал](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ)
 
