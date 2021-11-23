@@ -1,11 +1,10 @@
 # Описание 
 
-[![Stars](https://img.shields.io/github/stars/maximsamokhval/First-steps-vanessa-runner.svg?label=Github%20%E2%98%85&a)](https://github.com/maximsamokhval/First-steps-vanessa-runner/stargazers) 
-![forks](https://img.shields.io/github/forks/maximsamokhval/First-steps-vanessa-runner?style=plastic)
-[![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/automation_community)
-![last commit](https://img.shields.io/github/last-commit/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
-
-[Youtube- канал](https://www.youtube.com/channel/UCD5PEAjBs194A0Z-ceUbpuQ)
+![Stars](https://img.shields.io/github/stars/maximsamokhval/First-steps-vanessa-runner?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/maximsamokhval/First-steps-vanessa-runner?style=for-the-badge)
+[![telegram](https://img.shields.io/badge/telegram-channel-blue.svg?style=for-the-badge)](https://t.me/automation_community)
+![last commit](https://img.shields.io/github/last-commit/maximsamokhval/autoRemove-Scheduled-jobs?style=for-the-badge)
+[![YouTube](https://img.shields.io/badge/youtube-channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLB1FqRhexVy65PCet9YFZ9uHAh6hu2C24)
 
 ## 1 Настройка окружения
 
